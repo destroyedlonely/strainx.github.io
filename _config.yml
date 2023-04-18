@@ -6,3 +6,6 @@ url: https://strainx.github.io
 
 aux_links:
   Template Repository: https://github.com/strainx/just-the-docs-justvibestudios
+
+plugins:
+  - jekyll-default-layout
