@@ -1,11 +1,9 @@
 title: Just Vibe Studios
-description: Just Vibe Studios documentation
+description: Documentation
 theme: just-the-docs
 
 url: https://strainx.github.io
 
-aux_links:
-  Template Repository: https://github.com/strainx/just-the-docs-justvibestudios
 
 plugins:
   - jekyll-default-layout
