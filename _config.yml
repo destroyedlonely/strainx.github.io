@@ -7,3 +7,5 @@ url: https://strainx.github.io
 
 plugins:
   - jekyll-default-layout
+
+logo: "/assets/images/jvs.png"
